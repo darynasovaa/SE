@@ -9,6 +9,8 @@ int main() {
     int n;
     int finish = 0;
 
+    //okkkkkkkkkkk
+    //lllllllllllll
 
     cout << "-------------------------------------------- \n"
         << "|            Software engineering          | \n"
