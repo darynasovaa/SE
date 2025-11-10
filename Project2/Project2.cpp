@@ -9,7 +9,7 @@ int main() {
     int n;
     int finish = 0;
 
-    //okkkkkkkkkkkk
+    //okkkkkkkkkkkkl
     //lllllllllllll
 
     cout << "-------------------------------------------- \n"
