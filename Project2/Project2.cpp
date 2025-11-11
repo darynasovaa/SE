@@ -9,6 +9,7 @@ int main() {
     int n;
     int finish = 0;
 
+    //comment
 
     cout << "-------------------------------------------- \n"
         << "|            Software engineering          | \n"
